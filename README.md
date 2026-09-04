@@ -10,6 +10,7 @@ Engineer interested in backend systems, infrastructure and automation. I enjoy u
 ## Stack
 ### Infra & Automation
 
+<p>
 <img src="https://cdn.simpleicons.org/proxmox" width="40"/>
 <img src="https://cdn.simpleicons.org/terraform" width="40"/>
 <img src="https://cdn.simpleicons.org/ansible" width="40"/>
@@ -18,14 +19,19 @@ Engineer interested in backend systems, infrastructure and automation. I enjoy u
 <img src="https://cdn.simpleicons.org/git" width="40"/>
 <img src="https://cdn.simpleicons.org/flux" width="40"/>
 <img src="https://cdn.simpleicons.org/githubactions" width="40"/>
+</p>
 
 
 ### Systems & Networking
+<p>
 <img src="https://cdn.simpleicons.org/c" width="40"/>
 <img src="https://cdn.simpleicons.org/cmake" width="40"/>
 <img src="https://cdn.simpleicons.org/wireshark" width="40"/>
+</p>
 
 ### Environment
+<p>
 <img src="https://cdn.simpleicons.org/neovim" width="40"/>
 <img src="https://cdn.simpleicons.org/vscodium" width="40"/>
 <img src="https://cdn.simpleicons.org/fedora" width="40"/>
+</p>
