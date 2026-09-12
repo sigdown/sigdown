@@ -25,7 +25,7 @@ Engineer interested in backend systems, infrastructure and automation. I enjoy u
 ### Systems & Networking
 <p>
 <img src="https://cdn.simpleicons.org/c" width="40"/>
-<img src="https://cdn.simpleicons.org/make" width="40">
+<img src="https://cdn.simpleicons.org/gnu" width="40">
 <img src="https://cdn.simpleicons.org/cmake" width="40"/>
 <img src="https://cdn.simpleicons.org/wireshark" width="40"/>
 </p>
