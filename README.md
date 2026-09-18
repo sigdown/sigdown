@@ -13,6 +13,7 @@ Engineer interested in backend systems, infrastructure and automation. I enjoy u
 <p>
 <img src="https://cdn.simpleicons.org/proxmox" width="40"/>
 <img src="https://cdn.simpleicons.org/terraform" width="40"/>
+<img src="https://cdn.simpleicons.org/wireguard" width="40"/>
 <img src="https://cdn.simpleicons.org/ansible" width="40"/>
 <img src="https://cdn.simpleicons.org/docker" width="40"/>
 <img src="https://cdn.simpleicons.org/kubernetes" width="40"/>
