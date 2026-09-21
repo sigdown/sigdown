@@ -33,6 +33,5 @@ Engineer interested in backend systems, infrastructure and automation. I enjoy u
 ### Environment
 <p>
 <img src="https://cdn.simpleicons.org/neovim" width="40"/>
-<img src="https://cdn.simpleicons.org/vscodium" width="40"/>
 <img src="https://cdn.simpleicons.org/fedora" width="40"/>
 </p>
